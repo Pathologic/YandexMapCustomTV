@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "Yandex Maps API" : {
+        "version":"2.1",
+        "src":"http://api-maps.yandex.ru/2.1/?lang=ru_RU",
+        "type":"js"
+    },
+    "YMapTV" : {
+      "version":"1.0.0",
+      "src":"assets/tvs/ymap/js/ymap.js"
+    }
+  }
+}
