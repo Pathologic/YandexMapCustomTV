@@ -2,7 +2,7 @@
   "scripts": {
     "Yandex Maps API" : {
         "version":"2.1",
-        "src":"http://api-maps.yandex.ru/2.1/?lang=ru_RU",
+        "src":"https://api-maps.yandex.ru/2.1/?lang=ru_RU&apikey=[+apiKey+]",
         "type":"js"
     },
     "YMapTV" : {
